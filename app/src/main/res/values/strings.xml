@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_title">Login</string>
+    <string name="login_button">Log in</string>
+    <string name="welcome_title">Welcome !</string>
+    <string name="welcome_button">Continue</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_button">Continue</string>
+    <string name="shoe_list_title">Shoes</string>
+    <string name="shoe_detail_title">Shoe detail</string>
+    <string name="shoe_detail_button">Add shoe</string>
+    <string name="shoeNameText">Shoe name:</string>
+    <string name="companyNameText">Company name:</string>
+    <string name="shoeSizeText">Size:</string>
+    <string name="shoeDescriptionText">Shoe description:</string>
+    <string name="size_title">Size:  </string>
+    <string name="company_title">Company:  </string>
+    <string name="description_title">Description:  </string>
+    <string name="empty_text">empty</string>
+    <string name="username_title">Username / email</string>
+    <string name="password_title">Password:</string>
+    <string name="username_text">username / email</string>
+    <string name="password_text">password</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="instructions_text">In the next page you will see all the shoes that you love. If you want to add a new one, press the \'add button\' and insert all the information that is required.</string>
+    <string name="welcome_text">Welcome to the best shoe store around the world. Thanks for choosing us and enjoy the shoe world</string>
+    <string name="shoe_detail_cancel_button">Cancel</string>
+    <string name="logout_text">Logout</string>
+</resources>
